@@ -10,7 +10,7 @@ export default function Home() {
             <Container className="home-container w-100">  {/* Set full viewport height container */}
                 <Row className="">
                     <div className="text-center py-5 text-uppercase w-100">
-                        <div className="text-sz py-3 text-start">
+                        <div className="text-sz  text-start">
                             <img src={pixelBotIcon} className="logo1" alt="pixel bot icon" />
                             Pixel With Purpose, Future in Focus.
                         </div>

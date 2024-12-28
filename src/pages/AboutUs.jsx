@@ -1,10 +1,11 @@
 import React from 'react'
 import { Container, Row } from 'react-bootstrap'
+import '../assets/css/common.css'
 
 export default function AboutUs() {
     return (
         <>
-            <div className='container my-5'>
+            <div className='container home-container'>
                 <div className='row'>
                     <div className='bg-color p-3 content-height' >
                         <h1 className='fw-bold py-3'>
