@@ -39,7 +39,7 @@ export default function Header() {
                                     Digital Marketing
                                 </NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.4">
-                                   Motion Graphics & Video/Audio Editing
+                                    Motion Graphics & Video/Audio Editing
                                 </NavDropdown.Item>
                             </NavDropdown>
                             <Nav.Link href="#deets" className='fw-bold'>CONTACT </Nav.Link>
