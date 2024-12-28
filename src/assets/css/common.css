@@ -1,4 +1,21 @@
 .header-bg{
     background-color: rgb(14, 70, 138);
+    transition: transform 0.3s ease-in-out; /* Smooth transition for the move */
     
 }
+
+/* Add this in home.css or common.css */
+.home-container {
+    height: 100vh;                /* Make the container full viewport height */
+    display: flex;                /* Enable flexbox */
+    flex-direction: column;       /* Align items vertically */
+    justify-content: center;      /* Vertically center the content */
+    align-items: center;          /* Horizontally center the content */
+}
+
+/* When scrolled, move the header up by 70px */
+.header-bg.scrolled {
+    transform: translateY(-20%);
+    padding-bottom: 2% !important;
+}
+

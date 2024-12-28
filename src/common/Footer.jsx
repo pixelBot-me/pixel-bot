@@ -34,7 +34,7 @@ export default function Footer() {
                         </div> */}
                         <div class="col-sm-6 col-md-4 mt-4 col-lg-4 text-center text-sm-start">
                             <div class="social">
-                                <h6 class="footer-heading text-uppercase text-white fw-bold">Social</h6>
+                                <h6 class="footer-heading text-uppercase text-white fw-bold">Social links</h6>
                                 <ul class="list-inline my-4">
                                     <Button variant="primary" className="mx-2" href="https://facebook.com/yourprofile" target="_blank">
                                         <FaFacebook size={20} />
