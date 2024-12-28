@@ -14,15 +14,7 @@ ReactDOM.render(
   <BrowserRouter>
    <Header />
       <App />
-      <Footer />
+    <Footer />
   </BrowserRouter>,
   document.getElementById("root")
 );
-
-// createRoot(document.getElementById('root')).render(
-//   <StrictMode>
-//     <Header />
-//       <App />
-//     <Footer />
-//   </StrictMode>
-
