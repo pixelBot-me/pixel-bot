@@ -9,11 +9,10 @@ import App from './App.jsx'
 import Header from './common/Header.jsx'
 import Footer from './common/Footer.jsx'
 
-
 ReactDOM.render(
   <BrowserRouter>
-   <Header />
-      <App />
+    <Header />
+    <App />
     <Footer />
   </BrowserRouter>,
   document.getElementById("root")

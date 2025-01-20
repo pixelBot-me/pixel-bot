@@ -21,17 +21,6 @@ export default function Footer() {
                                 </ul>
                             </div>
                         </div>
-                        {/* <div class="col-sm-6 col-md-4 mt-4 col-lg-3 text-center text-sm-start">
-                            <div class="resources">
-                                <h6 class="footer-heading text-uppercase text-white fw-bold">Resources</h6>
-                                <ul class="list-unstyled footer-link mt-4">
-                                    <li class="mb-1"><a href="#r" class="text-white text-decoration-none fw-semibold">API</a></li>
-                                    <li class="mb-1"><a href="#r" class="text-white text-decoration-none fw-semibold">Website Tutorials</a></li>
-                                    <li class="mb-1"><a href="#r" class="text-white text-decoration-none fw-semibold">Third Party</a></li>
-                                    <li class=""><a href="#r" class="text-white text-decoration-none fw-semibold">Video Lectures</a></li>
-                                </ul>
-                            </div>
-                        </div> */}
                         <div class="col-sm-6 col-md-4 mt-4 col-lg-4 text-center text-sm-start">
                             <div class="social">
                                 <h6 class="footer-heading text-uppercase text-white fw-bold">Social links</h6>

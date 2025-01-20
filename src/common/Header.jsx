@@ -53,8 +53,8 @@ export default function Header() {
 
                     <Navbar.Toggle
                         aria-controls="responsive-navbar-nav"
-                        onClick={() => setExpanded(!expanded)} 
-                        
+                        onClick={() => setExpanded(!expanded)}
+
                     />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto"></Nav>
@@ -81,7 +81,6 @@ export default function Header() {
                                 title="COURSES"
                                 id="collapsible-nav-dropdown"
                                 className="fw-bold"
-                                
                             >
                                 <NavDropdown.Item href="/graphic-design">Graphic Design</NavDropdown.Item>
                                 <NavDropdown.Item href="/ui-ux-design">UI/UX Design</NavDropdown.Item>
